@@ -1,0 +1,12 @@
+1) В ветке master, в файле human.txt появилась шляпа и нолики по середине
+2) Вижу 10 коммитов: (еще 1 добавляется с файлом hometask.txt с комментарием added hometask.txt)
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge remote-tracking branch 'origin/boots' into boots_buttons
+8. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9. Merge remote-tracking branch 'origin/hat'
+10. Merge branch 'boots_buttons'
